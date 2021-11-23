@@ -65,7 +65,7 @@ p {
 }
 
 .about-paragraphs {
-  display: flex;
+  text-align: center;
   margin: 30px 0;
 }
 
